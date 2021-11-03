@@ -1,4 +1,4 @@
-The goal of this project was to seek and find predefined object autonomously by using an rc car. The rc-car is meant to act like a pet dog.
+The goal of this project was to seek and find predefined object autonomously by using a rc car. The rc-car is meant to act like a pet dog.
 
 Parts required:
 * rc-car (servos to steer & speed control)
