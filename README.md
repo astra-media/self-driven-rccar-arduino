@@ -5,6 +5,4 @@ Parts required:
 * PixyCam (https://pixycam.com)
 * Arduino
 
-PixyCam can save objects shape and color in its memory and can recognise it when it sees it. 
-The data from the pixyCam can be used to control the rc-car's servos. 
-In this example the rc-car first starts loking for the object. Once it finds the object it steer itself close it. 
+PixyCam can save objects shape and color in its memory and can recognize it when it sees it. The data from the pixyCam can be used to control the rc-car's servos. In this example the rc-car first starts looking for the object. Once it finds the object it steers itself close it.
